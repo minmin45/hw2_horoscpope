@@ -14,6 +14,7 @@
 		B70EB64C2266EB8100AF52D6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B70EB64A2266EB8100AF52D6 /* LaunchScreen.storyboard */; };
 		B70EB6572266EB8100AF52D6 /* hw2_horoscpopeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B70EB6562266EB8100AF52D6 /* hw2_horoscpopeTests.swift */; };
 		B70EB6622266EB8100AF52D6 /* hw2_horoscpopeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B70EB6612266EB8100AF52D6 /* hw2_horoscpopeUITests.swift */; };
+		B70EB670226988DA00AF52D6 /* SharpImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B70EB66F226988DA00AF52D6 /* SharpImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		B70EB65D2266EB8100AF52D6 /* hw2_horoscpopeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hw2_horoscpopeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B70EB6612266EB8100AF52D6 /* hw2_horoscpopeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hw2_horoscpopeUITests.swift; sourceTree = "<group>"; };
 		B70EB6632266EB8100AF52D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B70EB66F226988DA00AF52D6 /* SharpImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharpImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				B70EB6412266EB8000AF52D6 /* AppDelegate.swift */,
 				B70EB6432266EB8000AF52D6 /* ViewController.swift */,
 				B70EB6452266EB8000AF52D6 /* Main.storyboard */,
+				B70EB66F226988DA00AF52D6 /* SharpImageView.swift */,
 				B70EB6482266EB8100AF52D6 /* Assets.xcassets */,
 				B70EB64A2266EB8100AF52D6 /* LaunchScreen.storyboard */,
 				B70EB64D2266EB8100AF52D6 /* Info.plist */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B70EB6442266EB8000AF52D6 /* ViewController.swift in Sources */,
+				B70EB670226988DA00AF52D6 /* SharpImageView.swift in Sources */,
 				B70EB6422266EB8000AF52D6 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
